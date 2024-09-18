@@ -13,10 +13,10 @@ public class Week3Wednesday {
     /**
      * @param args the command line arguments
      */
-    /**
+    
     //Rajveer Singh 
     //Abhishek Saini
-//illustarting and fetch 
+     //illustarting and fetch 
  
     
     public static void main(String[] args) {
